@@ -1,0 +1,4 @@
+Nama Perangkat : Router ZTE, Lokasi : Ampenan
+Nama Perangkat : Mikrotik, Lokasi : Mataram
+Nama Perangkat : Cisco Router, Lokasi : Pringgarata
+Nama Perangkat : Router RAISECOM, Lokasi : MATARAM
